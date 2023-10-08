@@ -242,3 +242,9 @@ p {
     padding: 20px 0;
     text-align: center;
 }
+.circular-image {
+    width: 500px; 
+    height: 500px;
+    border-radius: 50%;
+    overflow: hidden;
+  }
